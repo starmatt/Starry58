@@ -5,7 +5,7 @@ Hello !
 **Starry58** is a case for the
 [Lily58 split keyboard](https://github.com/kata0510/Lily58).
 The case is *high profile*, it features *integrated switch plates*,
-optional *M3 tenting holes*, and allows to be set up with a *acrylic bottom
+optional *M3 tenting holes*, and allows to be set up with *acrylic bottom
 plates*.
 
 This case is inspired by the
