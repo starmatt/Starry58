@@ -2,12 +2,15 @@
 
 Hello !
 
-**Starry58** is a case for the [Lily58 split keyboard](https://github.com/kata0510/Lily58).
-The case is *high profile* case, it features *integrated switch plates*,
+**Starry58** is a case for the
+[Lily58 split keyboard](https://github.com/kata0510/Lily58).
+The case is *high profile*, it features *integrated switch plates*,
 optional *M3 tenting holes*, and allows to be set up with a *acrylic bottom
 plates*.
 
-This case is inspired by the [IMK Corne case](https://imkulio.com/build-guide.html) and the [Manta58](https://teddit.net/r/MechanicalKeyboards/comments/r0mptz/ic_manta58_a_unique_3dprinted_lily58_case/).
+This case is inspired by the
+[IMK Corne case](https://imkulio.com/build-guide.html) and the
+[Manta58](https://teddit.net/r/MechanicalKeyboards/comments/r0mptz/ic_manta58_a_unique_3dprinted_lily58_case/).
 
 ![Starry58](assets/pic1.JPG?raw=true "Starry58")
 ![Starry58](assets/pic2.JPG?raw=true "Starry58")
@@ -18,9 +21,9 @@ This case is inspired by the [IMK Corne case](https://imkulio.com/build-guide.ht
 ### 3D printing
 
 You will need LEFT and RIGHT versions of the case (you can find the .STL files
-the `Exports` folder). You can 3D print them yourself or use a third party
-service. (The case you see in the pictures was printed at i.materialise.com
-with SLS technology and a polished finish).
+in the `Exports` folder). You can 3D print the parts yourself or use a third
+party service. (The case you see in the pictures was printed at
+i.materialise.com with SLS technology and a polished finish).
 
 :warning: The case is heavy on support material.
 
