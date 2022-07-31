@@ -23,7 +23,7 @@ This case is inspired by the
 You will need LEFT and RIGHT versions of the case (you can find the .STL files
 in the `Exports` folder). You can 3D print the parts yourself or use a third
 party service. (The case you see in the pictures was printed at
-<i.materialise.com> with SLS technology and a polished finish).
+<https://i.materialise.com> with SLS technology and a polished finish).
 
 :warning: The case is heavy on support material.
 
